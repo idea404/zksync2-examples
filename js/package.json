@@ -13,5 +13,8 @@
   },
   "dependencies": {
     "zksync2-js": "^0.4.0"
+  },
+  "scripts": {
+    "runp": "ts-node src/19_use_paymaster.ts"
   }
 }
